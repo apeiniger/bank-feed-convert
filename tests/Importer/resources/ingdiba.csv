@@ -1,0 +1,12 @@
+"Umsatzanzeige vom 24.01.2015 16:07"
+"Kunde";"John Doe"
+
+"Konto";"Girokonto: 123456"
+"Zeitraum";"24.12.2014 - 24.01.2015"
+"Kontosaldo";"2.000,50";"EUR"
+
+"Buchung";"Valuta";"Auftraggeber/Empf�nger";"Buchungstext";"Verwendungszweck";"Betrag";"W�hrung";"Saldo";"W�hrung"
+"19.01.2015";"16.01.2015";"Geldautomat                                           ";"Lastschrifteinzug";"BARGELDAUSZAHLUNG  15.01 12.57 UHR  ";"-100,50";"EUR";"2.000,50";"EUR"
+"19.01.2015";"19.01.2015";"Supermarkt 12345678                                   ";"Lastschrifteinzug";"EC 12345678 abcdefghijklmno  ";"-25,00";"EUR";"1.900,00";"EUR"
+"09.01.2015";"09.01.2015";"Acme Inc.";"Gutschrift";"Salary  ";"1.800,00";"EUR";"1.875,00";"EUR"
+"29.12.2014";"29.12.2014";"RESTAURANT                                            ";"Lastschrifteinzug";"EC 12345678 abcdefghijklmno  ";"-60,00";"EUR";"75,00";"EUR"
