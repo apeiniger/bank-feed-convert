@@ -12,6 +12,9 @@ As of today the following ones are supported:
 
 Further support can be added by just creating an importer.
 
-## Exporting (Not Yet Implemented)
+## Exporting
 
-Furthermore the class will have different Exporters, so that you can convert the feeds into a format that is supported by other systems to which you want to import the feeds.
+Furthermore the class has different Exporters, so that you can convert the feeds into a format that is supported by other systems to which you want to import the feeds.
+
+Currently the following export formats are supported:
+- QIF

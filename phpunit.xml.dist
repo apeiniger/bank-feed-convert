@@ -3,5 +3,8 @@
         <testsuite name="Importer Tests">
             <directory>./tests/Importer</directory>
         </testsuite>
+        <testsuite name="Exporter Tests">
+            <directory>./tests/Exporter</directory>
+        </testsuite>
     </testsuites>
 </phpunit>
