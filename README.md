@@ -12,9 +12,25 @@ As of today the following ones are supported:
 
 Further support can be added by just creating an importer.
 
+### Usage
+
+```php
+$importer = new \BankFeedConvert\Importer\IngDiba();
+$importer->loadFromFile('import.csv');
+$importer->import();
+$transactions = $importer->getTransactions();
+```
+
 ## Exporting
 
 Furthermore the class has different Exporters, so that you can convert the feeds into a format that is supported by other systems to which you want to import the feeds.
 
 Currently the following export formats are supported:
 - QIF
+
+### Usage
+
+```php
+$exporter = new \BankFeedConvert\Exporter\QIF($transactions);
+$exporter->export('export.qif');
+```
