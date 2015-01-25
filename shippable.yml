@@ -9,3 +9,8 @@ before_script:
 
 script:
   - vendor/bin/phpunit --log-junit shippable/testresults/junit.xml
+
+cache: true
+
+notifications:
+  email: false
