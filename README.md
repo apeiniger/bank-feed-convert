@@ -3,7 +3,7 @@
 
 ## Importing
 
-This class helps importing CSV bank feeds from currently a few different German banks and credit care companies.
+This class helps importing CSV bank feeds from currently a few different German banks and credit card companies.
 
 As of today the following ones are supported:
 - ING Diba
@@ -12,6 +12,6 @@ As of today the following ones are supported:
 
 Further support can be added by just creating an importer.
 
-## Exporting
+## Exporting (Not Yet Implemented)
 
 Furthermore the class will have different Exporters, so that you can convert the feeds into a format that is supported by other systems to which you want to import the feeds.
