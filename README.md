@@ -1,4 +1,17 @@
-# bank-feed-convert
+# Bank Feed Convert
 [![Build Status](https://api.shippable.com/projects/54c4e1895ab6cc135289b4a5/badge?branchName=master)](https://app.shippable.com/projects/54c4e1895ab6cc135289b4a5/builds/latest)
 
-A way to convert some bank feed exports to a different format
+## Importing
+
+This class helps importing CSV bank feeds from currently a few different German banks and credit care companies.
+
+As of today the following ones are supported:
+- ING Diba
+- Sparkasse
+- Lufthansa Miles&More creditcard
+
+Further support can be added by just creating an importer.
+
+## Exporting
+
+Furthermore the class will have different Exporters, so that you can convert the feeds into a format that is supported by other systems to which you want to import the feeds.
