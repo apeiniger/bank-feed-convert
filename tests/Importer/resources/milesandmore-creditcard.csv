@@ -1,0 +1,8 @@
+Kartennummer(n);'123456 xxxxxx 1234   '
+Servicekartennummer(n);'1234567890'
+Herrn;John Doe;Abbuchungskonto:;DE1234567890;
+Rechnung;R.-Datum;R.-Pos.;Kaufdatum;Buch.Datum;Umsatzbeschreibung;;VK-Währung;VK-Betrag;Soll/Haben;Kurs;Abr-Währung;Abgerechnet;Soll/Haben;;Auslandseinsatzentgelt Faktor;Abr-Währung;Auslandseinsatzentgelt Wert
+62879316;2015-01-19;11;2015-01-15;2015-01-16;Onlineshop Y;Berlin;EUR;59,95;S;1;EUR;59,95;S
+62879316;2015-01-19;12;2015-01-15;2015-01-16;Shopping Center X;Koeln;EUR;53,75;S;1;EUR;53,75;S
+62879316;2015-01-19;7;2015-01-03;2015-01-05;GOOGLE;Google.COM/CH  USA;USD;1,49;S;1,202;EUR;1,24;S;;1.25%;EUR;0,02
+60719115;2014-09-18;25;2014-09-15;2014-09-16;Itunes.Com/Bill;Itunes.com     LUX;EUR;3,69;H;1;EUR;3,69;H
